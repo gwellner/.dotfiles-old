@@ -101,7 +101,7 @@ alias vim=nvim
 
 # is in Bash.profile
 # ssh-agent global variables
-eval $(ssh-agent)
+# eval $(ssh-agent)
 
 # https://wiki.archlinux.org/index.php/Dotfiles
 #
