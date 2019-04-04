@@ -1,0 +1,13 @@
+bspwm-git
+btops-git
+chromium-widevine
+htop-vim-git
+ncpamixer
+ncurses5-compat-libs
+nerd-fonts-roboto-mono
+rofi-greenclip
+sxhkd-git
+trizen
+vim-gruvbox-git
+vim-sxhkdrc-git
+vim-youcompleteme-git
