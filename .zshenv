@@ -1,4 +1,6 @@
 export EDITOR=nvim
+export SUDO_EDITOR="$EDITOR"
+export SYSTEMD_EDITOR="$EDITOR"
 
 export CHROME_BIN=chromium
 
